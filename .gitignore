@@ -1,0 +1,8 @@
+# Avoid sharing dataset in version control
+data/
+
+# Jupyter Notebook files
+*.ipynb_checkpoints/
+
+# System files
+.DS_Store
